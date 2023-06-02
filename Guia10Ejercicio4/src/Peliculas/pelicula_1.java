@@ -9,7 +9,7 @@ package Peliculas;
  *
  * @author Soporte
  */
-public class Pelicula {
+public class pelicula_1.java {
     public int duracion;
     public String titulo;
     public String director;
